@@ -1,0 +1,116 @@
+\begin{thebibliography}{10}
+
+\bibitem{Olfatisaber2004Consensus}
+Reza Olfati-Saber and R.~M Murray.
+\newblock Consensus problems in networks of agents with switching topology and
+  time-delays.
+\newblock {\em IEEE Transactions on Automatic Control}, 49(9):1520--1533, Sept
+  2004.
+
+\bibitem{Olfati2007Consensus}
+Reza Olfati-Saber, Alex Fax, and Richard~M. Murray.
+\newblock Consensus and cooperation in networked multi-agent systems.
+\newblock {\em Proceedings of the IEEE}, 95(1):215--233, 2007.
+
+\bibitem{Shi2012Optimal}
+Ling Shi and Lihua Xie.
+\newblock Optimal sensor power scheduling for state estimation of gauss-markov
+  systems over a packet-dropping network.
+\newblock {\em IEEE Transactions on Signal Processing}, 60(5):2701--2705, 2012.
+
+\bibitem{yang2013fast}
+Wen Yang, Xiaofan Wang, and Hongbo Shi.
+\newblock Fast consensus seeking in multi-agent systems with time delay.
+\newblock {\em Systems $\&$ Control Letters}, 62(3):269--276, 2013.
+
+\bibitem{Yang2016Nodes}
+Wen Yang, Zidong Wang, Zongyu Zuo, Chao Yang, and Hongbo Shi.
+\newblock Nodes selection strategy in cooperative tracking problem.
+\newblock {\em Automatica}, 74:118--125, 2016.
+
+\bibitem{Mo2016Privacy}
+Yilin Mo and Richard~M. Murray.
+\newblock Privacy preserving average consensus.
+\newblock {\em IEEE Transactions on Automatic Control}, page in press, 2016.
+
+\bibitem{Kolesnikov2009Advances}
+Vladimir Kolesnikov.
+\newblock Advances and impact of secure function evaluation.
+\newblock {\em Bell Labs Technical Journal}, 14(3):187--192, 2009.
+
+\bibitem{Dwork2006Differential}
+Cynthia Dwork.
+\newblock {\em Differential Privacy}.
+\newblock Springer Berlin Heidelberg, 2006.
+
+\bibitem{Huang2012Differentially}
+Zhenqi Huang, Sayan Mitra, and Geir Dullerud.
+\newblock Differentially private iterative synchronous consensus.
+\newblock pages 81--90, 2012.
+
+\bibitem{Duan2015Privacy}
+Xiaoming Duan, Jianping He, Peng Cheng, and Yilin Mo.
+\newblock Privacy preserving maximum consensus.
+\newblock In {\em 2015 54th IEEE Conference on Decision and Control (CDC)},
+  pages 4517--4522, Dec 2015.
+
+\bibitem{Manitara2013Privacy}
+Nicolaos.~E Manitara and Chistoforos.~N Hadjicostis.
+\newblock Privacy-preserving asymptotic average consensus.
+\newblock In {\em European Control Conference (ECC), 2013 European}, pages
+  760--765, July 2013.
+
+\bibitem{Kefayati2007Secure}
+Mahdi Kefayati, Mohammad~S. Talebi, Babak~H. Khalaj, and Hamid~R. Rabiee.
+\newblock Secure consensus averaging in sensor networks using random offsets.
+\newblock In {\em IEEE International Conference on Telecommunications and
+  Malaysia International Conference on Communications, 2007. ICT-MICC}, pages
+  556--560, 2007.
+
+\bibitem{Zhang2014Online}
+Heng Zhang, Peng Cheng, Junfeng Wu, Ling Shi, and Jiming Chen.
+\newblock Online deception attack against remote state estimation.
+\newblock {\em IFAC Proceedings}, 47(3):128--133, 2014.
+
+\bibitem{Qi2015}
+Yifei Qi, Peng Cheng, Ling Shi, and Jiming Chen.
+\newblock Event-based attack against remote state estimation.
+\newblock In {\em 2015 54th IEEE Conference on Decision and Control (CDC)},
+  pages 6844--6849, Dec 2015.
+
+\bibitem{Lei2016Fast}
+Li~Lei, Wen Yang, Chao Yang, and Hongbo Shi.
+\newblock False data injection attack on consensus-based distributed
+  estimation.
+\newblock {\em International Journal of Robust $\&$ Nonlinear Control}, page in
+  press, 2016.
+
+\bibitem{Watts1998Collective}
+D.~J. Watts and S.~H. Strogatz.
+\newblock Collective dynamics of "small-world" nettworks.
+\newblock {\em Nature}, 393(6684):440--2, 1998.
+
+\bibitem{Hong2002Synchronization}
+H.~Hong, M.~Y. Choi, and B.~J. Kim.
+\newblock Synchronization on small-world networks.
+\newblock {\em Physical Review E Statistical Nonlinear $\&$ Soft Matter
+  Physics}, 65(2 Pt 2):95--129, 2002.
+
+\bibitem{Wang2003Complex}
+Xiao~Fan Wang and Guanrong Chen.
+\newblock Complex networks: small-world, scale-free and beyond.
+\newblock {\em IEEE Circuits $\&$ Systems Magazine}, 3(1):6--20, 2003.
+
+\bibitem{XIAO2011SYNCHRONIZATION}
+Xiao~Ffan Wang and Guanrong Chen.
+\newblock Synchronization in small-world dynamical networks.
+\newblock {\em International Journal of Bifurcation $\&$ Chaos},
+  12(1):187--192, 2011.
+
+\bibitem{Kraft1994Algorithm}
+Dieter Kraft.
+\newblock Algorithm 733: Tomp-fortran modules for optimal control calculations.
+\newblock {\em Acm Transactions on Mathematical Software}, 20(3):262--281,
+  1994.
+
+\end{thebibliography}
